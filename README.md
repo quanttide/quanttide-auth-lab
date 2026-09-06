@@ -1,0 +1,13 @@
+# quanttide-laboratory-of-authorization-engineering
+
+量潮身份认证实验室 — 实验性与原型项目汇聚地。
+
+## 概述
+
+本仓库用于维护量潮身份认证领域的实验性项目与原型，包括：
+
+- 待补充
+
+## 许可
+
+[CC BY 4.0](LICENSE)
