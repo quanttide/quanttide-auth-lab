@@ -1,4 +1,4 @@
-# quanttide-laboratory-of-authorization-engineering
+# quanttide-auth-lab
 
 量潮身份认证实验室 — 实验性与原型项目汇聚地。
 
